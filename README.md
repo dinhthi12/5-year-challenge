@@ -9,3 +9,7 @@ This repository contains typescript and SQL programming practice exercises and p
 ```bash
 git clone https://github.com/dinhthi12/typescript.git
 cd typescript
+
+```
+script npx tsc -p tsconfig.json
+       npx ts-node
