@@ -1,6 +1,6 @@
 import { maxSubarray, maxSubarrayKadane } from '../maximumsubarray';
 
-describe('Maximum Subarray', () => {
+describe('Maximum sub array', () => {
   const cases: { input: number[]; expected: number }[] = [
     { input: [-2, 1, -3, 4, -1, 2, 1, -5, 4], expected: 6 }, //bf 4ms
     { input: [-5, -2, -8, -1], expected: -1 },

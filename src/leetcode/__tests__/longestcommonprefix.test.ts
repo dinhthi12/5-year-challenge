@@ -1,6 +1,6 @@
 import { longestCommonPrefix } from '../longestcommonprefix';
 
-describe('longestCommonPrefix with reduce', () => {
+describe('longest common prefix with reduce', () => {
   test('Case 1: flower, flow, flight', () => {
     expect(longestCommonPrefix(['flower', 'flow', 'flight'])).toBe('fl');
   });
