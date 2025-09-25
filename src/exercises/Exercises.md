@@ -37,7 +37,7 @@ Lesson 18: Calculate S(n) = 1 + x^2/2! + x^4/4! + … + x^2n/(2n)!
 
 Lesson 19: Calculate S(n) = 1 + x + x^3/3! + x^5/5! + … + x^(2n+1)/(2n+1)!
 
-Lesson 20: List all the "divisors" of the positive integer n
+---(START HERE)---Lesson 20: List all the "divisors" of the positive integer n
 
 Lesson 21: Calculate the sum of all "divisors" of the positive integer n
 
@@ -53,7 +53,7 @@ Lesson 26: Calculate the product of all "odd divisors" of the positive integer n
 
 Lesson 27: Count the number of "even divisors" of the positive integer n
 
-Lesson 28: Given a positive integer n. Calculate the sum of divisors smaller than itself
+---(done)---Lesson 28: Given a positive integer n. Calculate the sum of divisors smaller than itself
 
 Lesson 29: Find the largest odd divisor of the positive integer n. For example, n = 100 largest odd divisor is 25
 

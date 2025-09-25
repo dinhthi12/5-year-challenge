@@ -1,4 +1,4 @@
-export function sumOfEvenDivisors(n: number): number {
+export function productOfOddDivisors(n: number): number {
   let divisors: number[] = [];
 
   for (let i = 1; i * i <= n; i++) {
@@ -10,9 +10,9 @@ export function sumOfEvenDivisors(n: number): number {
     }
   }
 
-  let evenDivisors: number[] = divisors.filter((d) => d % 2 == 0);
+  let oddDivisors: number[] = divisors.filter((d) => d % 2 !== 0);
 
-  let result: number = evenDivisors.reduce((acc, cur) => acc + cur, 0);
+  let result: number = oddDivisors.reduce((acc, cur) => acc * cur, 1);
 
   return result;
 }
