@@ -1,3 +1,7 @@
+/**
+ * Calculate the product of all "odd divisors" of the positive integer n
+ */
+
 export function productOfOddDivisors(n: number): number {
   let divisors: number[] = []
 

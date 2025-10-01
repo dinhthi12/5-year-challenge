@@ -1,3 +1,7 @@
+/**
+ * Given a positive integer n. Calculate the sum of divisors smaller than itself
+ */
+
 export function sumOfDivisorsSmallerN(n: number): number {
   let result = 0
 

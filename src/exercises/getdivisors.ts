@@ -1,3 +1,7 @@
+/**
+ * List all the "divisors" of the positive integer n
+ */
+
 export function getDivisors(n: number): number[] {
   let result: number[] = []
 

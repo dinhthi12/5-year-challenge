@@ -1,3 +1,7 @@
+/**
+ * Calculate the sum of all "even divisors" of the positive integer n
+ */
+
 export function sumOfEvenDivisors(n: number): number {
   let divisors: number[] = []
 

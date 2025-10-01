@@ -1,3 +1,7 @@
+/**
+ * Count the number of "divisors" of the positive integer n
+ */
+
 export function countDivisors(n: number): number {
   let count = 0
 

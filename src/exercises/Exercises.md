@@ -53,7 +53,7 @@ Lesson 26: Calculate the product of all "odd divisors" of the positive integer n
 
 Lesson 27: Count the number of "even divisors" of the positive integer n
 
----(done)---Lesson 28: Given a positive integer n. Calculate the sum of divisors smaller than itself
+Lesson 28: Given a positive integer n. Calculate the sum of divisors smaller than itself
 
 Lesson 29: Find the largest odd divisor of the positive integer n. For example, n = 100 largest odd divisor is 25
 

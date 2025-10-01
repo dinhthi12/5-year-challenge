@@ -1,3 +1,7 @@
+/**
+ * Calculate the product of all "divisors" of the positive integer n
+ */
+
 export function productOfDivisors(n: number): number {
   let arrDivisors: number[] = []
 

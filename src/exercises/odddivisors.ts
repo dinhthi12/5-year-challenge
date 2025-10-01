@@ -1,3 +1,7 @@
+/**
+ * List all the "odd divisors" of the positive integer n
+ */
+
 export function oddDivisors(n: number): number[] {
   let divisors: number[] = []
 

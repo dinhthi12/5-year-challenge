@@ -1,3 +1,7 @@
+/**
+ * Calculate the sum of all "divisors" of the positive integer n
+ */
+
 export function sumOfDivisors(n: number): number {
   let arrDivisors: number[] = []
 

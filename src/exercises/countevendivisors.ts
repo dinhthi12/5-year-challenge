@@ -1,3 +1,7 @@
+/**
+ * Count the number of "even divisors" of the positive integer n
+ */
+
 export function countEvenDivisors(n: number): number {
   let count = 0
 
