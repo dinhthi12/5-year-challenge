@@ -11,5 +11,6 @@ git clone https://github.com/dinhthi12/typescript.git
 cd typescript
 
 ```
+
 script npx tsc -p tsconfig.json
-       npx ts-node
+npx ts-node

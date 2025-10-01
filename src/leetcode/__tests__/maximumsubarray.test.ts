@@ -1,4 +1,4 @@
-import { maxSubarray, maxSubarrayKadane } from '../maximumsubarray';
+import { maxSubarray, maxSubarrayKadane } from '../maximumsubarray'
 
 describe('Maximum sub array', () => {
   const cases: { input: number[]; expected: number }[] = [
@@ -6,18 +6,18 @@ describe('Maximum sub array', () => {
     { input: [-5, -2, -8, -1], expected: -1 },
     { input: [1, 2, 3, 4], expected: 10 },
     { input: [7], expected: 7 },
-    { input: [5, -2, 3, 4], expected: 10 },
-  ];
+    { input: [5, -2, 3, 4], expected: 10 }
+  ]
 
   describe('Brute Force', () => {
     test.each(cases)('nums=%j => %d', ({ input, expected }) => {
-      expect(maxSubarray(input)).toEqual(expected);
-    });
-  });
+      expect(maxSubarray(input)).toEqual(expected)
+    })
+  })
 
   describe("Kadane's Algorithm", () => {
     test.each(cases)('nums=%j => %d', ({ input, expected }) => {
-      expect(maxSubarrayKadane(input)).toEqual(expected);
-    });
-  });
-});
+      expect(maxSubarrayKadane(input)).toEqual(expected)
+    })
+  })
+})

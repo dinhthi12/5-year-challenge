@@ -1,19 +1,19 @@
-import { longestCommonPrefix } from '../longestcommonprefix';
+import { longestCommonPrefix } from '../longestcommonprefix'
 
 describe('longest common prefix with reduce', () => {
   test('Case 1: flower, flow, flight', () => {
-    expect(longestCommonPrefix(['flower', 'flow', 'flight'])).toBe('fl');
-  });
+    expect(longestCommonPrefix(['flower', 'flow', 'flight'])).toBe('fl')
+  })
 
   test('Case 2: no common prefix', () => {
-    expect(longestCommonPrefix(['dog', 'racecar', 'car'])).toBe('');
-  });
+    expect(longestCommonPrefix(['dog', 'racecar', 'car'])).toBe('')
+  })
 
   test('Case 3: identical strings', () => {
-    expect(longestCommonPrefix(['test', 'test', 'test'])).toBe('test');
-  });
+    expect(longestCommonPrefix(['test', 'test', 'test'])).toBe('test')
+  })
 
   test('Case 4: empty input', () => {
-    expect(longestCommonPrefix([])).toBe('');
-  });
-});
+    expect(longestCommonPrefix([])).toBe('')
+  })
+})

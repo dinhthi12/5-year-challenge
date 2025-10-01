@@ -4,7 +4,9 @@
   "description": "This repository contains typescript and SQL programming practice exercises and projects. It is used as a personal learning log and a hands-on workspace to improve typescript and SQL skills.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prettier": "prettier --check .",
+    "prettier:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,7 @@
     "@types/jest": "^30.0.0",
     "@types/node": "^24.5.0",
     "jest": "^30.1.3",
+    "prettier": "^3.6.2",
     "ts-jest": "^29.4.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"

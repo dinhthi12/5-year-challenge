@@ -127,21 +127,21 @@ Problem 63: Given two positive integers a and b. Find the least common multiple 
 
 Lesson 64 + 65 + 66: Solve equations of degree 1, 2, 4
 
-Lesson 67: Calculate S(x, n) = x – x^2 + x^3 + … + (-1)^n+1 * x^n
+Lesson 67: Calculate S(x, n) = x – x^2 + x^3 + … + (-1)^n+1 \* x^n
 
-Lesson 68: Calculate S(x, n) = -x^2 + x^4 + … + (-1)^n * x^2n
+Lesson 68: Calculate S(x, n) = -x^2 + x^4 + … + (-1)^n \* x^2n
 
-Lesson 69: Calculate S(x, n) = x – x^3 + x^5 + … + (-1)^n * x^2n+1
+Lesson 69: Calculate S(x, n) = x – x^3 + x^5 + … + (-1)^n \* x^2n+1
 
-Lesson 70: Calculate S(n) = 1 – 1/(1 + 2) + 1/(1 + 2 + 3) + … + (-1)^n+1 * 1/(1 + 2 + 3+ … +n)
+Lesson 70: Calculate S(n) = 1 – 1/(1 + 2) + 1/(1 + 2 + 3) + … + (-1)^n+1 \* 1/(1 + 2 + 3+ … +n)
 
-Lesson 71: Calculate S(x, n) = -x + x^2/(1 + 2) – x^3/(1 + 2 + 3) + … + (-1)^n * x^n/( 1 + 2 +… + n)
+Lesson 71: Calculate S(x, n) = -x + x^2/(1 + 2) – x^3/(1 + 2 + 3) + … + (-1)^n \* x^n/( 1 + 2 +… + n)
 
-Lesson 72: Calculate S(x, n) = – x + x^2/2! – x^3/3! + … + (-1)^n * x^n/n!
+Lesson 72: Calculate S(x, n) = – x + x^2/2! – x^3/3! + … + (-1)^n \* x^n/n!
 
-Lesson 73: Calculate S(x, n) = -1 + x^2/2! – x^4/4! + … + (-1)^n+1 * x^2n/(2n)!
+Lesson 73: Calculate S(x, n) = -1 + x^2/2! – x^4/4! + … + (-1)^n+1 \* x^2n/(2n)!
 
-Lesson 74: Calculate S(x, n) = 1 – x + x^3/3! – x^5/5! + … + (-1)^n+1 * x^2n+1/(2n + 1)!
+Lesson 74: Calculate S(x, n) = 1 – x + x^3/3! – x^5/5! + … + (-1)^n+1 \* x^2n+1/(2n + 1)!
 
 Lesson 75: Check whether a 4-byte integer has the form 2^k or not
 
@@ -349,7 +349,7 @@ Lesson 167: Find the value that satisfies the condition of all odd digits and is
 
 Lesson 168: Given a 1-dimensional array of integers. Write a function to find the largest value in an array of the form 5^k. If the array does not contain the value 5^k, the function will return 0
 
-Lesson 169 (*): Given a 1-dimensional array of integers. Write a function to find the smallest even number greater than every value in the array
+Lesson 169 (\*): Given a 1-dimensional array of integers. Write a function to find the smallest even number greater than every value in the array
 
 Lesson 170: Given a 1-dimensional array of integers. Write a function to find the smallest prime number greater than all values in the array
 
@@ -357,11 +357,11 @@ Lesson 171: Given a 1-dimensional array of integers. Write a function to find th
 
 Lesson 172: Given a 1-dimensional array of integers. Write a function to find the least common multiple of all elements in the array
 
-Lesson 173 (*): Given a 1-dimensional array of integers. Write a function to find the least appearing digit in the array
+Lesson 173 (\*): Given a 1-dimensional array of integers. Write a function to find the least appearing digit in the array
 
-Problem 174 (*): Given an array of real numbers with more than 2 values and the values in the array are two by two different. Write a function to list all pairs of values (a, b) in the array that satisfy the condition a <= b
+Problem 174 (\*): Given an array of real numbers with more than 2 values and the values in the array are two by two different. Write a function to list all pairs of values (a, b) in the array that satisfy the condition a <= b
 
-Problem 175 (*): Given an array of real numbers with more than 2 values and the values in the array are two by two different. Write a function to find the 2 closest values in the array (Note: An array with values that are different by pair is also called a distinct array)
+Problem 175 (\*): Given an array of real numbers with more than 2 values and the values in the array are two by two different. Write a function to find the 2 closest values in the array (Note: An array with values that are different by pair is also called a distinct array)
 
 Search and list exercises:
 
@@ -430,7 +430,7 @@ Lesson 205: Calculate the sum of values greater than the absolute value of the v
 
 Lesson 206: Calculate the sum of values greater than surrounding values in a 1-dimensional array of real numbers
 
-  Note: A value in the array has a maximum of 2 pulse values
+Note: A value in the array has a maximum of 2 pulse values
 
 Lesson 207: Calculate the sum of "extreme" elements in an array. An element is said to be extreme when it
 
@@ -450,7 +450,7 @@ Lesson 213: Calculate the average of values greater than the x value in a 1-dime
 
 Lesson 214: Calculate the geometric average of positive values in a 1-dimensional array of real numbers
 
-Lesson 215 (*): Calculate the average range between values in the array
+Lesson 215 (\*): Calculate the average range between values in the array
 
 Counting technique
 
@@ -502,9 +502,9 @@ Lesson 233: List the frequency of values appearing in the sequence. Note: each v
 Lesson 234: Given 2 arrays a, b. Count the number of values that appear in only 1 of 2 arrays
 
 Lesson 235: Given 2 arrays a and b. List values that appear in only 1 of 2 arrays
-Lesson 236(*): Given 2 arrays a, b. Please indicate the number of times array a appears in array b
+Lesson 236(\*): Given 2 arrays a, b. Please indicate the number of times array a appears in array b
 
-Lesson 237 + 238(*): List the values with the number of outputs
+Lesson 237 + 238(\*): List the values with the number of outputs
 
 most present in the array
 
@@ -646,9 +646,9 @@ Lesson 302: Count the number of times array a appears in array b
 
 Lesson 303: Find the longest all-positive subsequence
 
-Lesson 304(*): Given array a, integer M. Find a subarray such that the sum of the elements is equal to M
+Lesson 304(\*): Given array a, integer M. Find a subarray such that the sum of the elements is equal to M
 
-Lesson 305(*): Find the all-positive subsequence with the largest sum
+Lesson 305(\*): Find the all-positive subsequence with the largest sum
 
 Lesson 306: Find the subarray with the largest sum
 
@@ -728,15 +728,15 @@ Lesson 340: Count the number of negative numbers in a column in a matrix of real
 
 Lesson 341: Count the number of positive numbers on the boundary in a matrix of real numbers
 
-Lesson 342(*): Count the maximum number of elements in a matrix of real numbers. An element is called a maximum when it is larger than its surrounding elements
+Lesson 342(\*): Count the maximum number of elements in a matrix of real numbers. An element is called a maximum when it is larger than its surrounding elements
 
-Lesson 343(*): Count the number of extreme elements in a matrix of real numbers. An element is called an extremum when it is larger than the surrounding elements or smaller than the surrounding elements
+Lesson 343(\*): Count the number of extreme elements in a matrix of real numbers. An element is called an extremum when it is larger than the surrounding elements or smaller than the surrounding elements
 
-Lesson 344(*): Count the number of values in a matrix of real numbers. Note: If there are k elements (k >= 1) in the matrix that are equal, we only count it as 1
+Lesson 344(\*): Count the number of values in a matrix of real numbers. Note: If there are k elements (k >= 1) in the matrix that are equal, we only count it as 1
 
-Lesson 345(*): Calculate the sum of extreme elements in a matrix of real numbers. An element is called an extremum when it is larger than the surrounding elements or smaller than the surrounding elements
-Lesson 346(*): Count the number of "Queen" values on the matrix. An element is called Queen when it is largest on the row, on the column and the two diagonals passing through it
-Lesson 347(*): Count the number of "Saddle" values on the matrix. An element is called a Saddle when it is largest on the row and smallest on the column
+Lesson 345(_): Calculate the sum of extreme elements in a matrix of real numbers. An element is called an extremum when it is larger than the surrounding elements or smaller than the surrounding elements
+Lesson 346(_): Count the number of "Queen" values on the matrix. An element is called Queen when it is largest on the row, on the column and the two diagonals passing through it
+Lesson 347(\*): Count the number of "Saddle" values on the matrix. An element is called a Saddle when it is largest on the row and smallest on the column
 
 Chapter 6:
 
@@ -830,9 +830,9 @@ Lesson 388: List the lines with the most prime numbers
 
 Lesson 389: List the lines with the most perfect numbers
 
-Lesson 390(*): List the columns with the most digits in the matrix of integers
+Lesson 390(\*): List the columns with the most digits in the matrix of integers
 
-Lesson 391(*): Find the submatrix with the largest sum
+Lesson 391(\*): Find the submatrix with the largest sum
 
 Matrix processing techniques
 
@@ -976,7 +976,7 @@ Lesson 447: Find the maximum element in the matrix
 
 Lesson 448: Find the 2 closest values
 
-Lesson 449: * Given a square matrix A(n x n). Find the square matrix B(k x k) such that the sum of the values on this square matrix is maximum
+Lesson 449: \* Given a square matrix A(n x n). Find the square matrix B(k x k) such that the sum of the values on this square matrix is maximum
 
 Counting technique
 
@@ -1018,11 +1018,11 @@ Lesson 464: Arrange rows in ascending order according to the total number of row
 
 Lesson 465: Return even numbers to the beginning of a square matrix
 
-Lesson 466: * Square matrix A(n x n) with n >=3. Arrange the above triangle ascending from top to bottom and from left to right
+Lesson 466: \* Square matrix A(n x n) with n >=3. Arrange the above triangle ascending from top to bottom and from left to right
 
-Lesson 467: * Square matrix A with n>=3. Arrange the lower triangle descending from top to bottom and from left to right
+Lesson 467: \* Square matrix A with n>=3. Arrange the lower triangle descending from top to bottom and from left to right
 
-Lesson 468: * Building magic method A
+Lesson 468: \* Building magic method A
 
 Matrix operations
 
@@ -1032,11 +1032,11 @@ Lesson 470: Difference of 2 matrices
 
 Lesson 471: Product of 2 matrices
 
-Lesson 472: * Inverse matrix
+Lesson 472: \* Inverse matrix
 
-Lesson 473: * Determinants of matrices
+Lesson 473: \* Determinants of matrices
 
-Lesson 474: * Create a square of n x n degree
+Lesson 474: \* Create a square of n x n degree
 
 Chapter 8
 
@@ -1076,7 +1076,7 @@ Lesson 489: Calculate the monomial k-order derivative
 
 Lesson 490: Calculate the monomial value at position x=x0
 
-Lesson 491: Define the operator (operator *) for 2 monomials
+Lesson 491: Define the operator (operator \*) for 2 monomials
 
 Lesson 492: Define the operator (operator /) for 2 monomials
 
@@ -1104,7 +1104,7 @@ Lesson 501: Define the addition operator (operator +) for two polynomials
 
 Lesson 502: Define the subtraction operator (operator -) for two polynomials
 
-Lesson 503: Define the multiplication operator (operator *) for two polynomials
+Lesson 503: Define the multiplication operator (operator \*) for two polynomials
 
 Lesson 504: Define the quotient operator (operator /) for two polynomials
 
@@ -1138,7 +1138,7 @@ Lesson 516: Define operator + for 2 fractions
 
 Lesson 517: Define operator – for 2 fractions
 
-Lesson 518: Define operator * for 2 fractions
+Lesson 518: Define operator \* for 2 fractions
 
 Lesson 519: Define operator / for 2 fractions
 
@@ -1563,6 +1563,7 @@ Chapter 11: Pointer
 - Size of the cursor
 
 Pointers and 1-dimensional arrays
+
 - Import and export
 
 - Add, Delete, Add, Subtract
