@@ -1,4 +1,4 @@
-import { longestCommonPrefix } from '../longestcommonprefix'
+import { longestCommonPrefix } from '../longestCommonPrefix'
 
 describe('longest common prefix with reduce', () => {
   test('Case 1: flower, flow, flight', () => {

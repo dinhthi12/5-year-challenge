@@ -1,4 +1,4 @@
-import { maxProfitOptimize } from '../maxprofit'
+import { maxProfitOptimize } from '../maxProfit'
 
 describe('Best Time to Buy and Sell Stock', () => {
   test('Case 1: prices = [7,1,5,3,6,4]', () => {

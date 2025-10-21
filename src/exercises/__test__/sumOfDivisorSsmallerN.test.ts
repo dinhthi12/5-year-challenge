@@ -1,4 +1,4 @@
-import { sumOfDivisorsSmallerN } from '../sumofdivisorssmallern'
+import { sumOfDivisorsSmallerN } from '../sumOfDivisorsSmallerN'
 
 describe('sum of divisors smaller n', () => {
   test('n = 1 → no divisors smaller than 1', () => {

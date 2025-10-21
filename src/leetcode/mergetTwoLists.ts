@@ -1,4 +1,4 @@
-import { ListNode } from '../common/ListNode'
+import { ListNode } from '../common/listNode'
 
 export function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
   if (list1 === null) return list2

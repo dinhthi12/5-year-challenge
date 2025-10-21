@@ -1,4 +1,4 @@
-import { isValid } from './../validparentheses'
+import { isValid } from '../validParentheses'
 
 describe('is Valid parentheses', () => {
   it('should return true for valid parentheses', () => {

@@ -1,4 +1,4 @@
-import { maxSubarray, maxSubarrayKadane } from '../maximumsubarray'
+import { maxSubarray, maxSubarrayKadane } from '../maximumSubarray'
 
 describe('Maximum sub array', () => {
   const cases: { input: number[]; expected: number }[] = [

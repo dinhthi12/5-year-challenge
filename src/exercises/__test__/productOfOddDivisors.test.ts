@@ -1,4 +1,4 @@
-import { productOfOddDivisors } from '../productofodddivisors'
+import { productOfOddDivisors } from '../productOfOddDivisors'
 
 describe('product of odd divisors', () => {
   it('should return 1 when n = 1 (only odd divisor is 1)', () => {

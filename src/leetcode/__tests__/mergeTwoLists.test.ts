@@ -1,5 +1,5 @@
-import { createLinkedList, linkedListToArray } from '../../common/ListNode'
-import { mergeTwoLists } from '../mergetwolists'
+import { createLinkedList, linkedListToArray } from '../../common/listNode'
+import { mergeTwoLists } from '../mergetTwoLists'
 
 describe('mergeTwoLists', () => {
   it('should merge two non-empty sorted lists', () => {

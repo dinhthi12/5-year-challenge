@@ -1,4 +1,4 @@
-import { getDivisors } from '../getdivisors'
+import { getDivisors } from '../getDivisors'
 
 describe('get Divisors', () => {
   test('Case 1: divisors of 1', () => {

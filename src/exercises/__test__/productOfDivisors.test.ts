@@ -1,4 +1,4 @@
-import { productOfDivisors } from '../productofdivisors'
+import { productOfDivisors } from '../productOfDivisors'
 
 describe('product of divisors', () => {
   test('Case 1: n = 1', () => {

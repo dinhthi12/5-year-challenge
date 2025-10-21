@@ -1,4 +1,4 @@
-import { oddDivisors } from '../odddivisors'
+import { oddDivisors } from '../oddDivisors'
 
 describe('odd Divisors', () => {
   test('Case 1: n = 12', () => {

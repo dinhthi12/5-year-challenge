@@ -1,4 +1,4 @@
-import { largestOddDivisor } from '../largestodddivisor'
+import { largestOddDivisor } from '../largestOddDivisor'
 
 describe('largest odd divisor', () => {
   it('should return 25 for n = 100', () => {

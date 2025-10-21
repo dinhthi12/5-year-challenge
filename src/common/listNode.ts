@@ -7,7 +7,7 @@ export class ListNode {
     this.next = next === undefined ? null : next
   }
 }
-// Helper: create linked list to array
+
 export function createLinkedList(arr: number[]): ListNode | null {
   if (arr.length === 0) return null
 
@@ -22,7 +22,6 @@ export function createLinkedList(arr: number[]): ListNode | null {
   return head
 }
 
-// Helper: linked list -> array
 export function linkedListToArray(head: ListNode | null): number[] {
   let result: number[] = []
   let cur = head

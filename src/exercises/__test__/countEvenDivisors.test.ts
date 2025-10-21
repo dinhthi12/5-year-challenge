@@ -1,4 +1,4 @@
-import { countEvenDivisors } from '../countevendivisors'
+import { countEvenDivisors } from '../countEvenDivisors'
 
 describe('count even divisors', () => {
   test('n = 1 (no even divisors)', () => {

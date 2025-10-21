@@ -1,4 +1,4 @@
-import { sumOfEvenDivisors } from '../sumofevendivisors'
+import { sumOfEvenDivisors } from '../sumOfEvenDivisors'
 
 describe('sum Of Even Divisors', () => {
   test('Case 1: n = 12', () => {

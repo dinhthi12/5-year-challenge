@@ -61,7 +61,7 @@ Lesson 30: Given a positive integer n. Checks whether n is a perfect number or n
 
 Lesson 31: Given a positive integer n. Check if n is prime or not
 
-Lesson 32: Given a positive integer n. Check if n is a perfect square number or not
+---(DONE)---Lesson 32: Given a positive integer n. Check if n is a perfect square number or not
 
 Lesson 33: Calculate S(n) = CanBac2(2+CanBac2(2+….+CanBac2(2 + CanBac2(2)))) with n radical signs
 

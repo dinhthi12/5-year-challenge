@@ -1,4 +1,4 @@
-import { countDivisors } from '../countdivisors'
+import { countDivisors } from '../countDivisors'
 
 describe('count Divisors', () => {
   test('Case 1: n = 1', () => {

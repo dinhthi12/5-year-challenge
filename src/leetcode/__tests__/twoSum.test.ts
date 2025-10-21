@@ -1,4 +1,4 @@
-import { twoSum } from '../twosum'
+import { twoSum } from '../twoSum'
 
 describe('two sum function', () => {
   test('Case 1: finds indices for [2,7,11,15], target = 9', () => {

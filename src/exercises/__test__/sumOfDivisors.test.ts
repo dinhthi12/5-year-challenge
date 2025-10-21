@@ -1,4 +1,4 @@
-import { sumOfDivisors } from '../sumofdivisors'
+import { sumOfDivisors } from '../sumOfDivisors'
 
 describe('sum of divisors', () => {
   test('Case 1: n = 1', () => {

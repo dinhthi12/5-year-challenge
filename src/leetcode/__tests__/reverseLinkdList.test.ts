@@ -1,5 +1,5 @@
-import { reverseList } from '../reverselinkedlist'
-import { createLinkedList, linkedListToArray } from '../../common/ListNode'
+import { reverseList } from '../reverseLinkedList'
+import { createLinkedList, linkedListToArray } from '../../common/listNode'
 
 describe('reverseList', () => {
   it('should reverse a linked list with multiple nodes', () => {

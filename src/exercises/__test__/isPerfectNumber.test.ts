@@ -1,4 +1,4 @@
-import { isPerfectNumber } from '../isperfectnumber'
+import { isPerfectNumber } from '../isPerfectNumber'
 
 describe('is perfect number', () => {
   it('should return false for n = 1 (not perfect)', () => {
