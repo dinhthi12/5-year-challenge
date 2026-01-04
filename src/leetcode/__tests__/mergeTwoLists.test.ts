@@ -1,7 +1,7 @@
 import { createLinkedList, linkedListToArray } from '../../common/listNode'
 import { mergeTwoLists } from '../mergetTwoLists'
 
-describe('mergeTwoLists', () => {
+describe('merge two lists', () => {
   it('should merge two non-empty sorted lists', () => {
     const l1 = createLinkedList([1, 2, 4])
     const l2 = createLinkedList([1, 3, 4])

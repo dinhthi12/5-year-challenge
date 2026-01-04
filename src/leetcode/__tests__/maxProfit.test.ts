@@ -1,6 +1,6 @@
 import { maxProfitOptimize } from '../maxProfit'
 
-describe('Best Time to Buy and Sell Stock', () => {
+describe('Best time to buy and sell stock', () => {
   test('Case 1: prices = [7,1,5,3,6,4]', () => {
     expect(maxProfitOptimize([7, 1, 5, 3, 6, 4])).toBe(5)
   })

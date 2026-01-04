@@ -1,6 +1,6 @@
 import { isValid } from '../validParentheses'
 
-describe('is Valid parentheses', () => {
+describe('Is Valid parentheses', () => {
   it('should return true for valid parentheses', () => {
     expect(isValid('()')).toBe(true)
     expect(isValid('()[]{}')).toBe(true)
