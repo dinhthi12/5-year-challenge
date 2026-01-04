@@ -17,6 +17,10 @@ describe('Climb stairs', () => {
     expect(climbStairs(3)).toBe(3)
   })
 
+  test('n = 4 → 5 ways', () => {
+    expect(climbStairs(4)).toBe(5)
+  })
+
   test('n = 5 → 8 ways', () => {
     expect(climbStairs(5)).toBe(8)
   })

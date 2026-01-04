@@ -9,7 +9,7 @@ describe('Maximum sub array', () => {
     { input: [5, -2, 3, 4], expected: 10 }
   ]
 
-  describe('Brute Force', () => {
+  describe('Brute force', () => {
     test.each(cases)('nums=%j => %d', ({ input, expected }) => {
       expect(maxSubarray(input)).toEqual(expected)
     })

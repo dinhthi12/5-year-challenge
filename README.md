@@ -12,5 +12,8 @@ cd typescript
 
 ```
 
+```bash
 script npx tsc -p tsconfig.json
 npx ts-node
+
+```

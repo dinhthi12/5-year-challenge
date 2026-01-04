@@ -1,6 +1,6 @@
 import { sumOfDivisors } from '../sumOfDivisors'
 
-describe('sum of divisors', () => {
+describe('Sum of divisors', () => {
   test('Case 1: n = 1', () => {
     expect(sumOfDivisors(1)).toBe(1)
   })

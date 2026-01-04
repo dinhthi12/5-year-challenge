@@ -1,6 +1,6 @@
 import { countDivisors } from '../countDivisors'
 
-describe('count Divisors', () => {
+describe('Count divisors', () => {
   test('Case 1: n = 1', () => {
     expect(countDivisors(1)).toBe(1)
   })

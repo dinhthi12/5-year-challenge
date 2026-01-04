@@ -1,7 +1,7 @@
 import { countEvenDivisors } from '../countEvenDivisors'
 
-describe('count even divisors', () => {
-  test('n = 1 (no even divisors)', () => {
+describe('Count even divisors', () => {
+  test('n = 1 (No even divisors)', () => {
     expect(countEvenDivisors(1)).toBe(0)
   })
 

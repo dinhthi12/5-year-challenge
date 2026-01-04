@@ -1,6 +1,6 @@
 import { productOfDivisors } from '../productOfDivisors'
 
-describe('product of divisors', () => {
+describe('Product of divisors', () => {
   test('Case 1: n = 1', () => {
     expect(productOfDivisors(1)).toBe(1)
   })

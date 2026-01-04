@@ -1,6 +1,6 @@
 import { oddDivisors } from '../oddDivisors'
 
-describe('odd Divisors', () => {
+describe('Odd divisors', () => {
   test('Case 1: n = 12', () => {
     expect(oddDivisors(12).sort((a, b) => a - b)).toEqual([1, 3])
   })

@@ -1,6 +1,6 @@
 import { sumOfEvenDivisors } from '../sumOfEvenDivisors'
 
-describe('sum Of Even Divisors', () => {
+describe('Sum of even divisors', () => {
   test('Case 1: n = 12', () => {
     expect(sumOfEvenDivisors(12)).toBe(24)
   })
