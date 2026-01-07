@@ -1,5 +1,6 @@
 /**
  * Count the number of "divisors" of the positive integer n
+ * 正の整数ｎの約数を数える
  */
 
 export function countDivisors(n: number): number {
